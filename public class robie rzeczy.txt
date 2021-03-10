@@ -1,0 +1,8 @@
+public class HelloWorld
+{
+    public static void Main ()
+    {
+        System.Console.Write("papa planeto");
+        System.Console.Write("papa planeto 2 2");
+    }
+}
