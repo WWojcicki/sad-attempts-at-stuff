@@ -2,6 +2,10 @@ public class HelloWorld
 {
     public static void Main ()
     {
+<<<<<<< HEAD
         System.Console.Write("papa planeto");
+=======
+        System.Console.Write("witaj świecie to ja Adam Prośniewski");
+>>>>>>> ec8283b5edb82a04a51e254e738e6b499de7251c
     }
 }
