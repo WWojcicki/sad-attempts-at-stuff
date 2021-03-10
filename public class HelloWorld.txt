@@ -2,6 +2,6 @@ public class HelloWorld
 {
     public static void Main ()
     {
-        System.Console.Write("żegnaj świecie");
+        System.Console.Write("witaj świecie");
     }
 }
